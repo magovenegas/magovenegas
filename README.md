@@ -1,16 +1,32 @@
-## Hi there 👋
+# ¡Hola! Soy Mago Venegas 👋
 
-<!--
-**magovenegas/magovenegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Desarrollador Backend en formación | Apasionado por Laravel
 
-Here are some ideas to get you started:
+Soy un entusiasta de la tecnología enfocado en crear soluciones robustas y escalables. Actualmente estoy profundizando en el ecosistema de **PHP y Laravel**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Mis Tecnologías
+<p align="left">
+  <img src="https://img.shields.io" alt="Laravel" />
+  <img src="https://img.shields.io" alt="PHP" />
+  <img src="https://img.shields.io" alt="MySQL" />
+  <img src="https://img.shields.io" alt="JS" />
+  <img src="https://img.shields.io" alt="Bootstrap" />
+</p>
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app" alt="Stats" />
+</p>
+
+---
+
+### 📫 Cómo contactarme
+* **LinkedIn:** [Tu Perfil de LinkedIn](TU_LINK_AQUÍ)
+* **Portafolio:** [Blog Laravel](https://github.com)
+
+---
+*"El código es poesía en movimiento."*
